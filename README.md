@@ -8,7 +8,7 @@ build project with:
   bash build.sh
   ```
 
-run project with:
+run project with following command. This will run project with test.txt under example:
 
   ```
   bash run.sh
